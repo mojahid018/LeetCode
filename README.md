@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mojahid018/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/mojahid018/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mojahid018/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/mojahid018/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
