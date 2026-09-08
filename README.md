@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mojahid018/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/mojahid018/LeetCode/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
