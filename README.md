@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mojahid018/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/mojahid018/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/mojahid018/LeetCode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/mojahid018/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/mojahid018/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mojahid018/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mojahid018/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mojahid018/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/mojahid018/LeetCode/tree/master/0835-image-overlap) |
 ## Math
 |  |
 | ------- |
