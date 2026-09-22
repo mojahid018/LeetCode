@@ -23,24 +23,25 @@ public:
 
         while (!q.empty()) {
 
-            int n = q.size();
-            vector<int> level;
+            int levSize = q.size();
 
-            for (int i = 0; i < n; i++) {
+            vector<int> temp;
 
-                TreeNode* node = q.front();
+            while (levSize--) {
+
+                TreeNode* t = q.front();
                 q.pop();
 
-                level.push_back(node->val);
+                temp.push_back(t->val);
 
-                if (node->left != NULL)
-                    q.push(node->left);
+                if (t->left != NULL)
+                    q.push(t->left);
 
-                if (node->right != NULL)
-                    q.push(node->right);
+                if (t->right != NULL)
+                    q.push(t->right);
             }
 
-            ans.push_back(level);
+            ans.push_back(temp);
         }
 
         return ans;
