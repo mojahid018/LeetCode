@@ -1,0 +1,31 @@
+class Solution {
+public:
+    string reverseParentheses(string s) {
+
+        stack<string> st;
+        string curr = "";
+
+        for (char ch : s) {
+
+            if (ch == '(') {
+                // Save current string
+                st.push(curr);
+                curr = "";
+            }
+            else if (ch == ')') {
+                // Reverse content inside parentheses
+                reverse(curr.begin(), curr.end());
+
+                // Append it to previous string
+                curr = st.top() + curr;
+                st.pop();
+            }
+            else {
+                curr += ch;
+            }
+        }
+
+        return curr;
+        
+    }
+};
